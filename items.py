@@ -1,0 +1,1 @@
+hidden_things = ['cups', 'ball', 'phone', 'rabbit', 'wood', 'chair', 'golf club', 'vacuum', 'bottle', 'screw', 'cable', 'cord', 'spinner','bolt']
